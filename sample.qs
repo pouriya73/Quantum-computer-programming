@@ -16,4 +16,10 @@
     }
 }
 
+//Creating a complete random number generator
+//Now that we have a Q# operation that generates random bits, 
+//we can use it to build a complete quantum random number generator. 
+//We can use a Q# application or use a host program.
 
+
+  
