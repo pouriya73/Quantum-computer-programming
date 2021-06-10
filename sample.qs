@@ -45,3 +45,7 @@ namespace Qrng {
                ? SampleRandomNumberInRange(max)
                | sample;
     }
+
+    @EntryPoint()
+    operation SampleRandomNumber() : Int {
+        let max = 50;
